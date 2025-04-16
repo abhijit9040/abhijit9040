@@ -1,5 +1,12 @@
-                                          
-# 💫 👋 Hi, I'm Abhijit!
+  <div align="center">
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=00FFB3&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Abhijit;Welcome+to+my+GitHub!" alt="Typing SVG" />
+    </a>
+  </h1>
+</div>
+                                        
+
 🚀 About Me<br>💻 Beginner Developer: Skilled in HTML, CSS, Java, JavaScript, and Python.<br>🌐 Web Enthusiast: Passionate about building websites and learning new technologies.<br>📚 Continuous Learner: Exploring modern frameworks like React and Vue.<br>🤝 Collaborator: Open to contributing to open-source projects.<br>🌟 Aspiring Innovator: Excited to grow and create impactful projects.<br>
 
 
