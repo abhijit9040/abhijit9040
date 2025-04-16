@@ -18,7 +18,7 @@ As a passionate Computer Science student . I am learning in modern web developme
 
 ## 🌐 Socials:
 <p align="center">
-  Content Creator | Gamer | Tech Enthusiast
+  Gamer | Tech Enthusiast
 </p>
 
 <div align="center">
@@ -155,9 +155,6 @@ As a passionate Computer Science student . I am learning in modern web developme
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
-      </td>
     </tr>
   </tbody>
 </table>
@@ -168,6 +165,7 @@ As a passionate Computer Science student . I am learning in modern web developme
  
   <img src="https://streak-stats.demolab.com/?user=abhijit9040&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
+
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijit9040&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
 <div align="center">
@@ -190,17 +188,13 @@ As a passionate Computer Science student . I am learning in modern web developme
 <img src="https://github-readme-stats.vercel.app/api?username=abhijit9040&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Abhijit's GitHub stats">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijit9040&theme=highcontrast&hide_border=true">
-# 📊 GitHub Stats:
+
 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhijit9040&theme=ambient_gradient&no-frame=true&no-bg=false&margin-w=4)
-## 📊 Contribution Graph
-<p align="center">
-  <a href="https://github.com/abhijit9040">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijit9040&theme=radical" alt="GitHub Activity Graph" />
-  </a>
-</p>
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
