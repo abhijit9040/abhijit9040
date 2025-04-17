@@ -159,7 +159,7 @@ As a passionate Computer Science student . I am learning in modern web developme
   </tbody>
 </table>
 </div>
-<h3 align="center">Git Stats</h3>
+
 
 <div align="center">
  
