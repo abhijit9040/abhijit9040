@@ -12,7 +12,7 @@
 
 As a passionate Computer Science student . I am learning in modern web development, Bitcoin protocol engineering, and decentralized technologies. With a growing foundation in TypeScript, Rust, and React, I am driven by a curiosity for open-source innovation and real-world problem-solving.
 
-<h3 align="center">Git Stats</h3>
+
 <br>
 
 
@@ -163,7 +163,7 @@ As a passionate Computer Science student . I am learning in modern web developme
 
 <div align="center">
  
-
+<h3 align="center">Git Stats</h3>
   <br>
 
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijit9040&custom_title=Abhijit's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
