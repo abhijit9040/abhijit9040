@@ -48,7 +48,7 @@ As a passionate Computer Science student . I am learning in modern web developme
     </tr>
     <tr>
       <td align="center">
-        <a href="https://discord.gg/abhijit07797" target="_blank">
+        <a href="https://discord.com/channels/@me/1258248171914657813" target="_blank">
           <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
         </a>
       </td>
