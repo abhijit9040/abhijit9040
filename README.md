@@ -10,7 +10,11 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-As a passionate Computer Science student . I am learning in modern web development, Bitcoin protocol engineering, and decentralized technologies. With a growing foundation in TypeScript, Rust, and React, I am driven by a curiosity for open-source innovation and real-world problem-solving.
+I am a passionate Java backend developer dedicated to building robust, scalable, and high-performance systems. With deep expertise in Java and Spring Boot, I specialize in developing RESTful APIs and working with both SQL and NoSQL databases, ensuring reliable and efficient backend architectures.
+
+I have strong experience in microservices architecture, leveraging Docker and Kubernetes for containerization and orchestration, and I embrace DevOps practices to enable seamless CI/CD pipelines. By following Clean Code principles and Test-Driven Development (TDD), I strive to deliver maintainable, high-quality solutions that scale with business needs.
+
+Driven by a passion for technology and problem-solving, I continuously seek opportunities to improve system performance, enhance reliability, and contribute to impactful projects.
 
 
 <br>
