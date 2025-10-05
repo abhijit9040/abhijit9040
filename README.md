@@ -16,14 +16,11 @@ I have strong experience in microservices architecture, leveraging Docker and Ku
 
 Driven by a passion for technology and problem-solving, I continuously seek opportunities to improve system performance, enhance reliability, and contribute to impactful projects.
 
+🔗 Feel free to connect or follow my work!
 
 <br>
 
 
-## 🌐 Socials:
-<p align="center">
-  Gamer | Tech Enthusiast
-</p>
 
 <div align="center">
 <div align="center">
