@@ -196,6 +196,14 @@ Driven by a passion for technology and problem-solving, I continuously seek oppo
 ![](https://github-profile-trophy.vercel.app/?username=abhijit9040&theme=ambient_gradient&no-frame=true&no-bg=false&margin-w=4)
 
 
+## 🎉 Hacktoberfest 2025 — Supercontributor
+
+[![Hacktoberfest Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=500&lines=Hacktoberfest%202025%20Supercontributor;Open%20Source%20Champion)](https://git.io/typing-svg)
+
+[![Hacktoberfest Badge](https://assets.holopin.io/hf2025levels/lvl5-human.webp)](https://www.holopin.io/hacktoberfest2025/userbadge/cmhaixj70007hlb04uaqpsb35)
+
+🏆 Earned during [Hacktoberfest 2025](https://hacktoberfest.com/)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
