@@ -196,13 +196,27 @@ Driven by a passion for technology and problem-solving, I continuously seek oppo
 ![](https://github-profile-trophy.vercel.app/?username=abhijit9040&theme=ambient_gradient&no-frame=true&no-bg=false&margin-w=4)
 
 
-## 🎉 Hacktoberfest 2025 — Supercontributor
+<div align="center">
 
-[![Hacktoberfest Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=500&lines=Hacktoberfest%202025%20Supercontributor;Open%20Source%20Champion)](https://git.io/typing-svg)
+### 🏅 Hacktoberfest 2025 Progress — Levels 0 to 5
 
-[![Hacktoberfest Badge](https://assets.holopin.io/hf2025levels/lvl5-human.webp)](https://www.holopin.io/hacktoberfest2025/userbadge/cmhaixj70007hlb04uaqpsb35)
+<p>
+  <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="90" title="Level 0 – Joined Hacktoberfest 2025" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" width="90" title="Level 1 – First PR Merged" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" width="90" title="Level 2 – Active Contributor" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl3-human.webp" width="90" title="Level 3 – Maintainer’s Favorite" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" width="90" title="Level 4 – Consistent Hero" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" width="90" title="Level 5 – Supercontributor" />
+</p>
 
-🏆 Earned during [Hacktoberfest 2025](https://hacktoberfest.com/)
+<p>
+  <a href="https://www.holopin.io/@abhijit9040#badges" target="_blank">
+    🎉 View Your Hacktoberfest 2025 Badges on Holopin
+  </a>
+</p>
+
+</div>
+
 
 
 ### ✍️ Random Dev Quote
