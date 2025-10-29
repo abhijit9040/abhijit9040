@@ -211,7 +211,7 @@ Driven by a passion for technology and problem-solving, I continuously seek oppo
 
 <p>
   <a href="https://www.holopin.io/@abhijit9040#badges" target="_blank">
-    🎉 View Your Hacktoberfest 2025 Badges on Holopin
+    🎉 View Hacktoberfest 2025 Badges on Holopin
   </a>
 </p>
 
